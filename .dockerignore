@@ -6,3 +6,6 @@
 regression.*
 *.o
 *.so
+/Dockerfile-postgis
+/build.sh
+/push.sh
